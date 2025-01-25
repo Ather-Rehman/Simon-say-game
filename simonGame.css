@@ -1,0 +1,62 @@
+body{
+    text-align: center;  
+}
+.box{
+    height: 250px;
+    width: 250px;
+    border: solid 10px black;
+    border-radius: 20%;
+    box-shadow: 6px 6px 10px gray;
+}
+.container{
+    display:flex;
+    justify-content: center;
+}
+ .line-1 {
+    margin: 2.5%;
+}
+.line-2 {
+    margin: 2.5%;
+}
+.line-1 div{
+    margin: 20% 0;
+}
+.line-2 div{
+    margin: 20% 0;
+} 
+ .red{
+    background-color:crimson;
+ }
+ .yellow{
+    background-color: chocolate;
+ }
+ .blue{
+    background-color: cornflowerblue;
+ }
+.purple{
+    background-color:cadetblue;
+}
+.HS{
+    background-color:cadetblue;  
+    color: brown;
+    position: fixed;
+    top:0; 
+    box-shadow: 4px 4px 4px brown ;
+}
+h2 h2{
+    background-color: red;
+    display: inline-block;
+    color: white;
+}
+.name{
+    background-color: blue;
+    display: inline-block;
+    color: white;
+    position: relative;
+    z-index: -1; 
+    box-shadow: 6px 6px 10px rgb(1, 5, 1);
+}
+
+
+
+ 

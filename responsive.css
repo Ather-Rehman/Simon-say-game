@@ -1,0 +1,36 @@
+ @media (max-width : 750px ) {
+    .HS{
+        position: sticky;
+        top:1% 
+    }
+ }
+ @media (max-width : 1600px )  and (min-width : 1200px){
+    .box{
+         height: 200px;
+         width: 200px;
+     }
+  }
+ @media (max-width : 1200px )  and (min-width : 360px){
+    .box{
+         height: 150px;
+         width: 150px;
+     }
+  }
+ @media (max-width : 360px ) and (min-width : 260px) {
+    .box{
+         height: 100px;
+         width: 100px;
+     }
+  }
+ @media (max-width : 260px ) and (min-width : 170px)  {
+    .box{
+         height: 60px;
+         width: 60px;
+     }
+  }
+  @media (max-width : 170px ){
+    .box{
+         height: 30px;
+         width: 30px;
+     }
+  }
