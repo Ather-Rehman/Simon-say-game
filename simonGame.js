@@ -83,6 +83,3 @@ function printHN(){
     }
     hsh2.innerHTML = `Your Highest score = <b>${maxN}<b/>`  
  }
-
-
-
