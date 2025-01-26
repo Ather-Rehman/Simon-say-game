@@ -6,7 +6,7 @@ A fun and interactive **Simon Says** game built with HTML, CSS, and JavaScript. 
 - **High Score Tracking**: Displays the highest score so players can track their progress.
 - **Interactive Gameplay**: Click on the color patterns in the correct sequence to score points.
 - **Dynamic Difficulty**: The sequence grows longer as you progress.
-- 
+ 
 ## 🎮 How to Play
 1. Press **Any key** to begin the game.
 2. Follow the sequence of colored tiles as they light up.
@@ -20,5 +20,5 @@ A fun and interactive **Simon Says** game built with HTML, CSS, and JavaScript. 
 - **JavaScript**: For game logic and interactivity.
 
 ## 🔗 Live Demo
-[Simon Says Game Live](https://Ather-Rehman.github.io/Simon-say-game/)
+[Simon Says Game Live](https://ather-rehman.github.io/Simon-say-game/)
    
