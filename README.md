@@ -19,3 +19,6 @@ A fun and interactive **Simon Says** game built with HTML, CSS, and JavaScript. 
 - **CSS3**: For styling and responsiveness.
 - **JavaScript**: For game logic and interactivity.
 
+## 🔗 Live Demo
+[Simon Says Game Live](https://github.com/Ather-Rehman/Simon-say-game.git)
+   
